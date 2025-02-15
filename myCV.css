@@ -1,0 +1,33 @@
+
+@font-face {
+    font-family: CVfont;
+    src: url('Lato-Regular.ttf');
+}
+html{
+    width: 50%;
+    border: 3px solid black;
+    margin: 5px;
+    font-family: CVfont;
+    padding: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: deepskyblue;
+}
+
+
+h3{
+    font-size: medium;
+    color: green;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h4{
+    color : cadetblue;
+}
